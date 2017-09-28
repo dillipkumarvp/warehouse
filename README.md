@@ -72,7 +72,7 @@ How to Run the Program:
 Sample Output:
 -------------------
 
-As a JASON output (Can be changed to any output format by changing ResponseEntity)
+As a JSON output (Can be changed to any output format by changing ResponseEntity)
 
 {"articleId":1,"title":"Shirts","volume":"10"}
 
